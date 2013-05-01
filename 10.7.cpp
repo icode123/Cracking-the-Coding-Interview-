@@ -4,7 +4,7 @@ using namespace std;
 
 int mini2(int a,int b)
 {
-  return a<b ? a:b;
+	return a<b ? a:b;
 }
 
 int mini3(int a,int b,int c) 
